@@ -11,9 +11,13 @@ Gem::Specification.new do |s|
   s.license       = "MIT"
   s.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  s.metadata["homepage_uri"] = s.homepage
-  s.metadata["source_code_uri"] = s.homepage
-  s.metadata["changelog_uri"] = "#{s.homepage}/CHANGELOG.md"
+  s.metadata = {
+    "homepage_uri" => s.homepage,
+    "source_code_uri" => s.homepage,
+    "changelog_uri" => "#{s.homepage}/blob/master/CHANGELOG.md",
+    "documentation_uri" => "https://www.rubydoc.info/gems/#{s.name}/#{s.version}",
+    "yard.run" => "yri", # use "yard" to build full HTML docs.
+  }
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.

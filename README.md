@@ -1,11 +1,20 @@
 # ZoomAPI
 
-Welcome to your new gem! 
-In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. 
-Put your Ruby code in the file `lib/zoom_api`. 
-To experiment with that code, run `bin/console` for an interactive prompt.
+[![Gem](https://img.shields.io/gem/v/zoom_api)][rubygems]
+<!-- [![Build Status](https://travis-ci.org/tcd/zoom_api.svg?branch=master)][travis-ci] -->
+<!-- [![Coverage Status](https://coveralls.io/repos/github/tcd/zoom_api/badge.svg?branch=master)][coveralls] -->
+[![License](https://img.shields.io/github/license/tcd/zoom_api)][license]
+[![Documentation](http://img.shields.io/badge/docs-rubydoc.info-blue.svg)][docs]
 
-TODO: Delete this and the text above, and describe your gem
+[rubygems]: https://rubygems.org/gems/zoom_api
+[travis-ci]: https://travis-ci.org/tcd/zoom_api
+[coveralls]: https://coveralls.io/github/tcd/zoom_api?branch=master
+[license]: https://github.com/tcd/zoom_api/blob/master/LICENSE.txt
+[docs]: https://www.rubydoc.info/gems/zoom_api/0.1.0
+
+## Development
+
+To experiment with that code, run `bin/console` for an interactive prompt.
 
 ## Installation
 

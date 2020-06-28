@@ -16,7 +16,7 @@ end
 
 $LOAD_PATH.unshift File.expand_path("../lib", __dir__)
 require "zoom_api"
-
+require "pry"
 require "minitest/autorun"
 require "minitest/focus"
 require "minitest/reporters"
