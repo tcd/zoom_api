@@ -7,8 +7,8 @@
 [![Documentation](http://img.shields.io/badge/docs-rubydoc.info-blue.svg)][docs]
 
 [rubygems]: https://rubygems.org/gems/zoom_api
-[travis-ci]: https://travis-ci.org/tcd/zoom_api
-[coveralls]: https://coveralls.io/github/tcd/zoom_api?branch=master
+<!-- [travis-ci]: https://travis-ci.org/tcd/zoom_api -->
+<!-- [coveralls]: https://coveralls.io/github/tcd/zoom_api?branch=master -->
 [license]: https://github.com/tcd/zoom_api/blob/master/LICENSE.txt
 [docs]: https://www.rubydoc.info/gems/zoom_api/0.1.0
 
